@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[LAB42Films Experimental]]></title>
+        <description><![CDATA[LAB42Films Experimental]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 30 Jun 2016 06:26:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We are Performers]]></title>
+            <description><![CDATA[<article><h1>We are Performers</h1><p>This is "We are Performers" by lab42films on Vimeo, the home for high quality videos and the people who love them.</p></article>]]></description>
+            <link>https://vimeo.com/148615549</link>
+            <guid isPermaLink="false">2bebbad3-1799-4302-8408-7d25f9107d01</guid>
+            <pubDate>Thu, 30 Jun 2016 06:26:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
