@@ -42,8 +42,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/171926300'
 title: LAB42Films Showreel 2015
-datePublished: '2016-06-30T06:26:12.189Z'
-dateModified: '2016-06-30T06:04:03.405Z'
+datePublished: '2016-06-30T06:26:13.962Z'
+dateModified: '2016-06-30T06:03:39.663Z'
 starred: false
 sourcePath: _posts/2016-06-30-lab42films-showreel-2015.md
 inFeed: true
