@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[LAB42Films Experimental]]></title>
         <description><![CDATA[LAB42Films Experimental]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lab42films-experimental/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Thu, 30 Jun 2016 06:26:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/lab42films-experimental/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LAB42Films Showreel 2015]]></title>
+            <description><![CDATA[<article><h1>LAB42Films Showreel 2015</h1><p>This is "LAB42Films Showreel 2015" by lab42films on Vimeo, the home for high quality videos and the people who love them.</p></article>]]></description>
+            <link>https://vimeo.com/171926300</link>
+            <guid isPermaLink="false">e0425556-92b0-4fb0-9d56-52e3458410ca</guid>
+            <pubDate>Thu, 30 Jun 2016 06:26:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We are Performers]]></title>
             <description><![CDATA[<article><h1>We are Performers</h1><p>This is "We are Performers" by lab42films on Vimeo, the home for high quality videos and the people who love them.</p></article>]]></description>
