@@ -6,9 +6,9 @@ color:
   saturation: 0.03475544322282076
   rhythmicContrast: 0.6657364680431783
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: LAB42Films Experimental
