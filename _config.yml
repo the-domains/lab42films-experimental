@@ -1,0 +1,14 @@
+layout_spectrum: 0.09420656086876988
+typography_spectrum: 0.2977041653357446
+color:
+  brandStrength: 0.5384309918154031
+  lightness: 0.823912349762395
+  saturation: 0.03475544322282076
+  rhythmicContrast: 0.6657364680431783
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: LAB42Films Experimental
