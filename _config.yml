@@ -16,4 +16,8 @@ layout_spectrum: 0.09420656086876988
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed7a34d1-7754-418f-8c4c-35936433e5ab.jpg
 name: LAB42Films Experimental
+navigation:
+  - name: Portfolio
+    url: 'https://vimeo.com/lab42films/videos'
+    type: external
 title: Going beyond the limits of your imagination
