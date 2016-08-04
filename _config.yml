@@ -1,4 +1,3 @@
-layout_spectrum: 0.09420656086876988
 typography_spectrum: 0.2977041653357446
 color:
   brandStrength: 0.5384309918154031
@@ -11,6 +10,10 @@ color:
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
-name: LAB42Films Experimental
+opengraph:
+  appId: '961842240559264'
+layout_spectrum: 0.09420656086876988
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed7a34d1-7754-418f-8c4c-35936433e5ab.jpg
+name: LAB42Films Experimental
+title: Going beyond the limits of your imagination
